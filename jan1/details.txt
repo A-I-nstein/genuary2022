@@ -1,0 +1,13 @@
+Jan 1 - Draw 10,000 of Something
+
+aim
+*drawing 10,000 of the same shape
+
+extras
+*no overlapping
+*different sizes
+*different colors
+*adding background colors
+
+achieved
+*drawing 10,000 circles of same radius
